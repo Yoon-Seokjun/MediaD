@@ -1,0 +1,327 @@
+.wireframe-1,
+.wireframe-1 * {
+  box-sizing: border-box;
+}
+.wireframe-1 {
+  background: #ffffff;
+  height: 1080px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-8 {
+  background: radial-gradient(
+    closest-side,
+    rgba(0, 101, 219, 0.7) 0%,
+    rgba(0, 54, 117, 0.7) 100%
+  );
+  padding: 283px 407px 283px 407px;
+  width: 1920px;
+  height: 964px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rectangle-14 {
+  background: rgba(230, 238, 241, 0.3);
+  width: 3.44%;
+  height: 87.66%;
+  position: absolute;
+  right: 91.15%;
+  left: 5.42%;
+  bottom: -13.8%;
+  top: 26.14%;
+}
+.rectangle-15 {
+  width: 3.44%;
+  height: 70.85%;
+  position: absolute;
+  right: 83.85%;
+  left: 12.71%;
+  bottom: -13.8%;
+  top: 42.95%;
+  overflow: visible;
+}
+.rectangle-16 {
+  width: 3.44%;
+  height: 58.3%;
+  position: absolute;
+  right: 76.56%;
+  left: 20%;
+  bottom: -13.8%;
+  top: 55.5%;
+  overflow: visible;
+}
+.rectangle-17 {
+  width: 3.44%;
+  height: 41.18%;
+  position: absolute;
+  right: 69.27%;
+  left: 27.29%;
+  bottom: -13.8%;
+  top: 72.61%;
+  overflow: visible;
+}
+.rectangle-18 {
+  background: rgba(167, 198, 226, 0.3);
+  border-radius: 50px;
+  width: 3.44%;
+  height: 87.66%;
+  position: absolute;
+  right: 4.38%;
+  left: 92.19%;
+  bottom: -12.66%;
+  top: 25%;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.rectangle-19 {
+  border-radius: 0px;
+  width: 3.44%;
+  height: 70.85%;
+  position: absolute;
+  right: 4.38%;
+  left: 92.19%;
+  bottom: 18.67%;
+  top: 10.48%;
+  transform: translate(-683px, 0px);
+  overflow: visible;
+}
+.rectangle-20 {
+  border-radius: 0px;
+  width: 3.44%;
+  height: 58.3%;
+  position: absolute;
+  right: 4.38%;
+  left: 92.19%;
+  bottom: 2.18%;
+  top: 39.52%;
+  transform: translate(-562px, 0px);
+  overflow: visible;
+}
+.rectangle-21 {
+  border-radius: 0px;
+  width: 3.44%;
+  height: 41.18%;
+  position: absolute;
+  right: 4.38%;
+  left: 92.19%;
+  bottom: 4.77%;
+  top: 54.05%;
+  transform: translate(-397px, 0px);
+  overflow: visible;
+}
+.clip-path-group {
+  height: auto;
+  position: absolute;
+  left: 17.18px;
+  top: 598px;
+  overflow: visible;
+}
+.group-3 {
+  height: auto;
+  position: absolute;
+  left: 406px;
+  top: 362.11px;
+  overflow: visible;
+}
+._2023 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "NotoSans-DisplayExtraBold", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  left: 654.61px;
+  top: 269px;
+  width: 860px;
+  height: 426px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.layer-1 {
+  width: 213px;
+  height: 183px;
+  position: absolute;
+  left: 1344px;
+  top: 161px;
+  overflow: visible;
+}
+.vector {
+  width: 7.86%;
+  height: 13.49%;
+  position: absolute;
+  right: 21.13%;
+  left: 71.01%;
+  bottom: 69.33%;
+  top: 17.19%;
+  transform: translate(-14.72px, 38.39px);
+  overflow: visible;
+}
+.layer-12 {
+  width: 539.33px;
+  height: 326.79px;
+  position: absolute;
+  left: 976px;
+  top: 624px;
+  overflow: hidden;
+}
+.clip-path-group2 {
+  height: auto;
+  position: absolute;
+  left: 1151px;
+  top: 624px;
+  overflow: visible;
+}
+.layer-13 {
+  width: 173.04px;
+  height: 313.16px;
+  position: absolute;
+  left: 632px;
+  top: 112px;
+  overflow: hidden;
+}
+.clip-path-group3 {
+  height: auto;
+  position: absolute;
+  left: 752px;
+  top: 112px;
+  overflow: visible;
+}
+.layer-14 {
+  width: 255px;
+  height: 61px;
+  position: absolute;
+  left: 104px;
+  top: 31px;
+  overflow: hidden;
+}
+.group {
+  width: 24.54%;
+  height: 99.99%;
+  position: absolute;
+  right: 75.46%;
+  left: 0%;
+  bottom: 0.01%;
+  top: 0%;
+  overflow: visible;
+}
+.group2 {
+  width: 69.43%;
+  height: 41.78%;
+  position: absolute;
+  right: 0%;
+  left: 30.57%;
+  bottom: 27.68%;
+  top: 30.54%;
+  overflow: visible;
+}
+.layer-15 {
+  width: 284px;
+  height: 327px;
+  position: absolute;
+  left: 662px;
+  top: 98px;
+  overflow: hidden;
+}
+.clip-path-group4 {
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.group3 {
+  width: 29.46%;
+  height: 34.8%;
+  position: absolute;
+  right: 47.47%;
+  left: 23.07%;
+  bottom: 9.83%;
+  top: 55.37%;
+  overflow: visible;
+}
+.rectangle-13 {
+  background: #ecfaff;
+  width: 1920px;
+  height: 116px;
+  position: absolute;
+  left: 0px;
+  top: 964px;
+}
+.div {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayMedium", sans-serif;
+  font-size: 30px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 360px;
+  top: 1006px;
+}
+.div2 {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayMedium", sans-serif;
+  font-size: 30px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 596px;
+  top: 1006px;
+  width: 148px;
+  height: 60px;
+}
+.div3 {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayMedium", sans-serif;
+  font-size: 30px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 799px;
+  top: 1006px;
+  width: 150px;
+  height: 60px;
+}
+.div4 {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayMedium", sans-serif;
+  font-size: 30px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 1004px;
+  top: 1006px;
+  width: 146px;
+  height: 60px;
+}
+.div5 {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayMedium", sans-serif;
+  font-size: 30px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 1205px;
+  top: 1006px;
+  width: 148px;
+  height: 60px;
+}
+.div6 {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayMedium", sans-serif;
+  font-size: 30px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 1408px;
+  top: 1006px;
+  width: 150px;
+  height: 60px;
+}
